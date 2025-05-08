@@ -3,8 +3,12 @@
 Zephyr es una aplicación móvil desarrollada en Kotlin con Jetpack Compose como parte de mi Trabajo de Fin de Grado (TFG) del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). La app permite consultar el clima actual y detalles meteorológicos utilizando la API de OpenWeatherMap.
 
 ## 📱 Capturas de pantalla
+![image](https://github.com/user-attachments/assets/7e7571e4-5780-492f-8a88-1a849e213ae9)
 
-*(Añade aquí imágenes del diseño o interfaz si las tienes)*
+![image](https://github.com/user-attachments/assets/c082bddb-f533-46cd-884e-2f82c9f3383a)
+
+
+
 
 ## ✨ Funcionalidades
 
@@ -23,8 +27,5 @@ Zephyr es una aplicación móvil desarrollada en Kotlin con Jetpack Compose como
 
 ## 🔐 Seguridad
 
-La clave de API de OpenWeatherMap **no está incluida** en este repositorio. Se recomienda almacenarla en `local.properties` o usar un archivo de configuración que no se suba a Git (añadido al `.gitignore`).
-
-```properties
-# local.properties
+La clave de API de OpenWeatherMap **no está incluida** en este repositorio.
 
