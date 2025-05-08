@@ -1,5 +1,7 @@
 # 🌤️ Zephyr — App del clima minimalista
 
+IMPORTANTE: ESTE PROYECTO ES UN TFG Y ESTÁ SUJETO A CAMBIOS
+
 Zephyr es una aplicación móvil desarrollada en Kotlin con Jetpack Compose como parte de mi Trabajo de Fin de Grado (TFG) del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). La app permite consultar el clima actual y detalles meteorológicos utilizando la API de OpenWeatherMap.
 
 ## 📱 Capturas de pantalla
