@@ -7,7 +7,8 @@ Zephyr es una aplicación móvil desarrollada en Kotlin con Jetpack Compose como
 ## 📱 Capturas de pantalla
 ![image](https://github.com/user-attachments/assets/7e7571e4-5780-492f-8a88-1a849e213ae9)
 
-![image](https://github.com/user-attachments/assets/c082bddb-f533-46cd-884e-2f82c9f3383a)
+![image](https://github.com/user-attachments/assets/18ea4721-33ef-480e-8c18-8178750012e6)
+
 
 
 
